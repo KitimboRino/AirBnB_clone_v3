@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""app"""
+"""Create a flask app thats starts an API"""
 from flask import Flask, make_response, jsonify
 from models import storage
 from api.v1.views import app_views

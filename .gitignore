@@ -1,0 +1,37 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment-specific files
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# Static files
+/static/
+
+# Compiled CSS
+*.css
+
+# Compiled JavaScript
+*.js
+
+# Compiled HTML templates
+*.html
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+/lib/
+/lib64/
